@@ -1,5 +1,5 @@
 # 💫 About Me:
-full stack web dev<br>in class 11<br><br>looking for collaboration and remote jobs
+**Full stack web dev**<br>in **class 11**<br>looking for **collaboration and remote jobs**
 
 
 ## 🌐 Socials:
